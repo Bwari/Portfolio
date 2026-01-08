@@ -11,29 +11,27 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
 - <b>NIST RMF Project for Cloud HRMS System</b>
   - [NIST RMF Implemetation](https://github.com/Bwari/NIST-RMF)
 - <b>Security Awareness Training</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Security Awareness Training](https://github.com/Bwari/Security-Trainings)
 - <b>Playbooks and Runbooks</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Mini Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
     
 <h2>📃Certifications</h2>
 
 - [Certified in Risk and Information Systems Control (CRISC) – ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Certified Information Security Manager (CISM)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- Certified Information Security Auditor (CISA) - ISACA
-- AWS Solutions Architect Associate (AWS SAA) - AWS
-- AWS Certified Cloud Practitioner (AWS CCP) - AWS
-- Microsoft Azure AZ-900 - Microsoft
-
+- [Certified Information Security Manager (CISM) -ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Certified Information Security Auditor (CISA) - ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AWS Solutions Architect Associate (AWS SAA) - AWS](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AWS Certified Cloud Practitioner (AWS CCP) - AWS](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Microsoft Azure AZ-900 - Microsoft](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
 [linkedin]: https://www.linkedin.com/in/tania-bwari-tbwari/
 
 <!--

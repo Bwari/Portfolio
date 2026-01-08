@@ -7,7 +7,7 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
 <h2>💻 GRC Projects:</h2>
 
 - <b>Data Protection Impact Assesment for Nususi Consulting (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DPIA for Nususi Consulting](https://github.com/Bwari/DPIA-Nususi-Consulting)
 - <b>Risk Register</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>NIST RMF Project for Cloud HRMS System</b>

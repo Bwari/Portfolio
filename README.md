@@ -15,7 +15,7 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
 - <b>Playbooks and Runbooks</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Mini Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Mini Projects](https://github.com/Bwari/Mini-Projects)
 
     
 <h2>📃Certifications</h2>

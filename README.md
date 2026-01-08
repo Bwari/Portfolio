@@ -20,12 +20,12 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
     
 <h2>📃Certifications</h2>
 
-- [Certified in Risk and Information Systems Control (CRISC) – ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Certified Information Security Manager (CISM) -ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Certified Information Security Auditor (CISA) - ISACA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Solutions Architect Associate (AWS SAA) - AWS](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Certified Cloud Practitioner (AWS CCP) - AWS](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft Azure AZ-900 - Microsoft](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Certified in Risk and Information Systems Control (CRISC) – ISACA](https://github.com/Bwari/Certifications)
+- [Certified Information Security Manager (CISM) -ISACA](https://github.com/Bwari/Certifications)
+- [Certified Information Security Auditor (CISA) - ISACA](https://github.com/Bwari/Certifications)
+- [AWS Solutions Architect Associate (AWS SAA) - AWS](https://github.com/Bwari/Certifications)
+- [AWS Certified Cloud Practitioner (AWS CCP) - AWS](https://github.com/Bwari/Certifications)
+- [Microsoft Azure AZ-900 - Microsoft](https://github.com/Bwari/Certifications)
 
 
 <h2> 🤳 Connect with me:</h2>

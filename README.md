@@ -12,7 +12,7 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
   - [NIST RMF Implemetation](https://github.com/Bwari/NIST-RMF)
 - <b>Security Awareness Training</b>
   - [Security Awareness Training](https://github.com/Bwari/Security-Trainings)
-- <b>Other projects</b>
+- <b>Other Projects</b>
   - [Other projects](https://github.com/Bwari/Books)
 - <b>Mini Projects</b>
   - [Mini Projects](https://github.com/Bwari/Mini-Projects)

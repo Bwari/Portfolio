@@ -37,4 +37,4 @@ Cybersecurity professional with 4+ years’ experience in Security Operations, R
 
 [<img align="left" alt=" | Email" width="22px" src="https://www.svgrepo.com/show/501173/email.svg" />][email]
 
-[email]: bwaritaniah@gmail.com
+[email]: bwaritaniah@gmail.com/

@@ -2,7 +2,7 @@
 <h3>GRC Specialist | Risk Analyst | Privacy Specialist | Cybersecurity Analyst</h3>
 
 <h2>📌Professional Overview</h2>
-Cybersecurity professional with 4+ years’ experience in Security Operations, Risk Management and Data Protection in the financial sector. Skilled in aligning cybersecurity programs with NIST CSF, NIST RMF, PCI DSS, ISO 27001, and other regulatory frameworks. Adept at bridging technical and business objectives to reduce risk exposure and ensure compliance. My core competencies are ERM, policy development, security training and awareness, TPRM and SOC Operations
+Cybersecurity professional with 5+ years’ experience in Security Operations, Risk Management and Data Protection in the financial sector. Skilled in aligning cybersecurity programs with NIST CSF, NIST RMF, PCI DSS, ISO 27001, and other regulatory frameworks. Adept at bridging technical and business objectives to reduce risk exposure and ensure compliance. My core competencies are ERM, policy development, security training and awareness, TPRM and SOC Operations
 
 <h2>💻 GRC Projects:</h2>
 

@@ -13,11 +13,11 @@ Cybersecurity professional with 5+ years’ experience in Security Operations, R
 - <b>Security Awareness Training</b>
   - [Security Awareness Training](https://github.com/Bwari/Security-Trainings)
 - <b>Other Projects</b>
-  - [Other projects](https://github.com/Bwari/Books)
+  - [Other Projects](https://github.com/Bwari/Books)
 - <b>Mini Projects</b>
   - [Mini Projects](https://github.com/Bwari/Mini-Projects)
 - <b>ISO 27001 Implementation</b>
-  - [Mini Projects](https://github.com/Bwari/ISO-27001-Implementation)
+  - [ISO 27001](https://github.com/Bwari/ISO-27001-Implementation)
     
 <h2>📃Certifications</h2>
 

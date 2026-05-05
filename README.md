@@ -16,7 +16,8 @@ Cybersecurity professional with 5+ years’ experience in Security Operations, R
   - [Other projects](https://github.com/Bwari/Books)
 - <b>Mini Projects</b>
   - [Mini Projects](https://github.com/Bwari/Mini-Projects)
-
+- <b>ISO 27001 Implementation</b>
+  - [Mini Projects](https://github.com/Bwari/ISO-27001-Implementation)
     
 <h2>📃Certifications</h2>
 

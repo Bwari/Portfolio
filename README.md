@@ -35,4 +35,8 @@ Cybersecurity professional with 5+ years’ experience in Security Operations, R
   - [LinkedIn ](https://www.linkedin.com/in/tania-bwari-tbwari/)
 - <b>Email</b>
     - [Email Me](mailto:bwaritaniah@gmail.com)
+ 
+-<a href="mailto:bwaritaniah@gmail.com">
+  <img src="https://shields.io" alt="Email Me">
+</a>
 

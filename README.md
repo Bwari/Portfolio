@@ -31,9 +31,8 @@ Cybersecurity professional with 5+ years’ experience in Security Operations, R
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b>LinkedIn</b>
-  - [linkedin] (https://www.linkedin.com/in/tania-bwari-tbwari/)
-  - [Linked In ](https://www.linkedin.com/in/tania-bwari-tbwari/)
+- <b>LinkedIn</b>  
+  - [LinkedIn ](https://www.linkedin.com/in/tania-bwari-tbwari/)
 - <b>Email</b>
-  - [email] (bwaritaniah@gmail.com/)
+    - [Email Me](mailto:bwaritaniah@gmail.com)
 
